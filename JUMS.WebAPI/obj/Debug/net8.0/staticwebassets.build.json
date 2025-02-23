@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WbeHKDxkVUbfXSvb5zJmWR4GNshdcgQm2Wl9cOmiztE=",
+  "Source": "JUMS.WebAPI",
+  "BasePath": "_content/JUMS.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

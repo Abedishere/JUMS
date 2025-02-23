@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JUMS.WebAPI.props" />
+</Project>
