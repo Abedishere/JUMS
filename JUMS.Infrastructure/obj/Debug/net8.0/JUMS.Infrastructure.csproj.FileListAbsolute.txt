@@ -1,0 +1,15 @@
+C:\Users\Abed Al-Rahman\JUMS.Infrastructure\obj\Debug\net8.0\JUMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Abed Al-Rahman\JUMS.Infrastructure\obj\Debug\net8.0\JUMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abed Al-Rahman\JUMS.Infrastructure\obj\Debug\net8.0\JUMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Abed Al-Rahman\JUMS.Infrastructure\obj\Debug\net8.0\JUMS.Infrastructure.AssemblyInfo.cs
+C:\Users\Abed Al-Rahman\JUMS.Infrastructure\obj\Debug\net8.0\JUMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Abed Al-Rahman\JUMS.Infrastructure\bin\Debug\net8.0\JUMS.Infrastructure.deps.json
+C:\Users\Abed Al-Rahman\JUMS.Infrastructure\bin\Debug\net8.0\JUMS.Infrastructure.dll
+C:\Users\Abed Al-Rahman\JUMS.Infrastructure\bin\Debug\net8.0\JUMS.Infrastructure.pdb
+C:\Users\Abed Al-Rahman\JUMS.Infrastructure\bin\Debug\net8.0\JUMS.Domain.dll
+C:\Users\Abed Al-Rahman\JUMS.Infrastructure\bin\Debug\net8.0\JUMS.Domain.pdb
+C:\Users\Abed Al-Rahman\JUMS.Infrastructure\obj\Debug\net8.0\JUMS.Inf.B03AA34F.Up2Date
+C:\Users\Abed Al-Rahman\JUMS.Infrastructure\obj\Debug\net8.0\JUMS.Infrastructure.dll
+C:\Users\Abed Al-Rahman\JUMS.Infrastructure\obj\Debug\net8.0\refint\JUMS.Infrastructure.dll
+C:\Users\Abed Al-Rahman\JUMS.Infrastructure\obj\Debug\net8.0\JUMS.Infrastructure.pdb
+C:\Users\Abed Al-Rahman\JUMS.Infrastructure\obj\Debug\net8.0\ref\JUMS.Infrastructure.dll

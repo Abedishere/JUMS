@@ -1,0 +1,17 @@
+C:\Users\Abed Al-Rahman\JUMS.Application\bin\Debug\net8.0\JUMS.Application.deps.json
+C:\Users\Abed Al-Rahman\JUMS.Application\bin\Debug\net8.0\JUMS.Application.dll
+C:\Users\Abed Al-Rahman\JUMS.Application\bin\Debug\net8.0\JUMS.Application.pdb
+C:\Users\Abed Al-Rahman\JUMS.Application\bin\Debug\net8.0\JUMS.Domain.dll
+C:\Users\Abed Al-Rahman\JUMS.Application\bin\Debug\net8.0\JUMS.Infrastructure.dll
+C:\Users\Abed Al-Rahman\JUMS.Application\bin\Debug\net8.0\JUMS.Domain.pdb
+C:\Users\Abed Al-Rahman\JUMS.Application\bin\Debug\net8.0\JUMS.Infrastructure.pdb
+C:\Users\Abed Al-Rahman\JUMS.Application\obj\Debug\net8.0\JUMS.Application.csproj.AssemblyReference.cache
+C:\Users\Abed Al-Rahman\JUMS.Application\obj\Debug\net8.0\JUMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abed Al-Rahman\JUMS.Application\obj\Debug\net8.0\JUMS.Application.AssemblyInfoInputs.cache
+C:\Users\Abed Al-Rahman\JUMS.Application\obj\Debug\net8.0\JUMS.Application.AssemblyInfo.cs
+C:\Users\Abed Al-Rahman\JUMS.Application\obj\Debug\net8.0\JUMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\Abed Al-Rahman\JUMS.Application\obj\Debug\net8.0\JUMS.App.2766EB4B.Up2Date
+C:\Users\Abed Al-Rahman\JUMS.Application\obj\Debug\net8.0\JUMS.Application.dll
+C:\Users\Abed Al-Rahman\JUMS.Application\obj\Debug\net8.0\refint\JUMS.Application.dll
+C:\Users\Abed Al-Rahman\JUMS.Application\obj\Debug\net8.0\JUMS.Application.pdb
+C:\Users\Abed Al-Rahman\JUMS.Application\obj\Debug\net8.0\ref\JUMS.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\Abed Al-Rahman\JUMS.Domain\bin\Debug\net8.0\JUMS.Domain.deps.json
+C:\Users\Abed Al-Rahman\JUMS.Domain\bin\Debug\net8.0\JUMS.Domain.dll
+C:\Users\Abed Al-Rahman\JUMS.Domain\bin\Debug\net8.0\JUMS.Domain.pdb
+C:\Users\Abed Al-Rahman\JUMS.Domain\obj\Debug\net8.0\JUMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abed Al-Rahman\JUMS.Domain\obj\Debug\net8.0\JUMS.Domain.AssemblyInfoInputs.cache
+C:\Users\Abed Al-Rahman\JUMS.Domain\obj\Debug\net8.0\JUMS.Domain.AssemblyInfo.cs
+C:\Users\Abed Al-Rahman\JUMS.Domain\obj\Debug\net8.0\JUMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Abed Al-Rahman\JUMS.Domain\obj\Debug\net8.0\JUMS.Domain.dll
+C:\Users\Abed Al-Rahman\JUMS.Domain\obj\Debug\net8.0\refint\JUMS.Domain.dll
+C:\Users\Abed Al-Rahman\JUMS.Domain\obj\Debug\net8.0\JUMS.Domain.pdb
+C:\Users\Abed Al-Rahman\JUMS.Domain\obj\Debug\net8.0\ref\JUMS.Domain.dll
+C:\Users\Abed Al-Rahman\JUMS.Domain\obj\Debug\net8.0\JUMS.Domain.csproj.AssemblyReference.cache
