@@ -57,7 +57,7 @@ namespace JUMS.Infrastructure.Persistence.Repositories
 
         public async Task<List<Course>> GetByTeacherIdAsync(Guid teacherId)
         {
-            // Not caching this query.
+            
             return await _context.Courses
                 .Where(c => c.TeacherId == teacherId)
                 .ToListAsync();

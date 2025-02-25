@@ -11,7 +11,6 @@ namespace JUMS.Domain.Entities
         public DateTime StartTime { get; set; }
         public DateTime EndTime { get; set; }
         
-        // Optional: Associate a time slot with a teacher.
         public Guid TeacherId { get; set; }
         public Teacher Teacher { get; set; }
         
