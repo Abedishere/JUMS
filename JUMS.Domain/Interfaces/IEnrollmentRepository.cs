@@ -9,8 +9,6 @@ namespace JUMS.Domain.Interfaces
         Task UpdateAsync(Enrollment enrollment);
         Task DeleteAsync(Enrollment enrollment);
         Task<List<Enrollment>> GetAllAsync();
-
-        
         Task<List<Enrollment>> GetByCourseIdAsync(Guid courseId);
         Task<List<Enrollment>> GetByStudentIdAsync(Guid studentId);
 
