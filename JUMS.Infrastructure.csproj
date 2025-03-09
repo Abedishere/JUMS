@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\JUMS.Domain\JUMS.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNetCore.HealthChecks.Rabbitmq" Version="9.0.0" />
+    <PackageReference Include="Hangfire.Core" Version="1.8.18" />
+    <PackageReference Include="Hangfire.SqlServer" Version="1.8.18" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="5.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.OData" Version="9.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.2" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="9.0.2" />
+    <PackageReference Include="Microsoft.OData.ModelBuilder" Version="2.0.0" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.3" />
+    <PackageReference Include="RabbitMQ.Client" Version="7.1.1" />
+    <PackageReference Include="RabbitMQ.Client" Version="7.4.1" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

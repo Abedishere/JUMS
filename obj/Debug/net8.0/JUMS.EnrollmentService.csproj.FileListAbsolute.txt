@@ -1,0 +1,7 @@
+C:\Users\Abed Al-Rahman\JUMS.EnrollmentService\obj\Debug\net8.0\JUMS.EnrollmentService.csproj.AssemblyReference.cache
+C:\Users\Abed Al-Rahman\JUMS.EnrollmentService\obj\Debug\net8.0\JUMS.EnrollmentService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abed Al-Rahman\JUMS.EnrollmentService\obj\Debug\net8.0\JUMS.EnrollmentService.AssemblyInfoInputs.cache
+C:\Users\Abed Al-Rahman\JUMS.EnrollmentService\obj\Debug\net8.0\JUMS.EnrollmentService.AssemblyInfo.cs
+C:\Users\Abed Al-Rahman\JUMS.EnrollmentService\obj\Debug\net8.0\JUMS.EnrollmentService.csproj.CoreCompileInputs.cache
+C:\Users\Abed Al-Rahman\JUMS.EnrollmentService\obj\Debug\net8.0\JUMS.EnrollmentService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abed Al-Rahman\JUMS.EnrollmentService\obj\Debug\net8.0\JUMS.EnrollmentService.MvcApplicationPartsAssemblyInfo.cache
