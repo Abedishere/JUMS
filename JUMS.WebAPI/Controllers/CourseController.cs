@@ -1,21 +1,23 @@
 using JUMS.Domain.Entities;
 using JUMS.Domain.Interfaces;
 using JUMS.Application.DTOs;
+using JUMS.Infrastructure.Messaging;
 using Microsoft.AspNetCore.Mvc;
 
 namespace JUMS.WebAPI.Controllers
 {
-    
     [ApiController]
     [Route("api/v{version:apiVersion}/[controller]")]
     [ApiVersion("1.0")]
     public class CourseController : ControllerBase
     {
         private readonly ICourseRepository _courseRepository;
+        private readonly IRabbitMQPublisher _rabbitMQPublisher;
 
-        public CourseController(ICourseRepository courseRepository)
+        public CourseController(ICourseRepository courseRepository, IRabbitMQPublisher rabbitMQPublisher)
         {
             _courseRepository = courseRepository;
+            _rabbitMQPublisher = rabbitMQPublisher;
         }
 
         // GET: api/Course
@@ -48,6 +50,10 @@ namespace JUMS.WebAPI.Controllers
             );
 
             await _courseRepository.AddAsync(course);
+
+            // Publish the new course event via RabbitMQ
+            await _rabbitMQPublisher.PublishCourseCreatedAsync(course);
+
             return CreatedAtAction(nameof(GetById), new { id = course.Id }, course);
         }
 
@@ -76,6 +82,7 @@ namespace JUMS.WebAPI.Controllers
 
             await _courseRepository.DeleteAsync(course);
             return NoContent();
+
         }
     }
 }

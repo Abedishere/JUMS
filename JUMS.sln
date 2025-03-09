@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JUMS.Infrastructure", "JUMS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JUMS.WebAPI", "JUMS.WebAPI\JUMS.WebAPI.csproj", "{8DD0902A-657B-49E0-B469-2C2EB8F04543}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JUMS.EnrollmentService", "JUMS.EnrollmentService\JUMS.EnrollmentService.csproj", "{0BC262FA-F86C-425A-B77F-F54937EF49D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{8DD0902A-657B-49E0-B469-2C2EB8F04543}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DD0902A-657B-49E0-B469-2C2EB8F04543}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DD0902A-657B-49E0-B469-2C2EB8F04543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BC262FA-F86C-425A-B77F-F54937EF49D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC262FA-F86C-425A-B77F-F54937EF49D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC262FA-F86C-425A-B77F-F54937EF49D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC262FA-F86C-425A-B77F-F54937EF49D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
