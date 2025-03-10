@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "R7IRJCAESbegNQ9Lj8MPTxadjMfnh677LPRofeBxrh8=",
+  "Source": "JUMS.EnrollmentService",
+  "BasePath": "_content/JUMS.EnrollmentService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\JUMS.EnrollmentService.props" />
+</Project>
