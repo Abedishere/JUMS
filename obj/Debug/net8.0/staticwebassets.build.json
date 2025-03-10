@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "BDW7c4at4S3C8/0lqLsIGeBbazA0PfHmC0LW+idYRYA=",
+  "Source": "JUMS.WebAPI",
+  "BasePath": "_content/JUMS.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Abed Al-Rahman\\JUMS.EnrollmentService\\JUMS.EnrollmentService.csproj",
+      "Version": 2,
+      "Source": "JUMS.EnrollmentService",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
